@@ -1,0 +1,32 @@
+#carouselExampleAutoplaying {
+  height: 50vh;
+}
+.carousel-inner {
+  height: 100%;
+}
+.carousel-item {
+  height: 100%;
+}
+.carousel-item img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
+@media (max-width: 768px) {
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-color: rgba(
+      0,
+      0,
+      0,
+      0.5
+    );
+  }
+}
+
+/* .footerlogo{
+  background-image: url(./logo.jpg);
+  height: 100px;
+  width: 40px;
+} */

@@ -1,0 +1,38 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar {
+    background-color: #343a40;
+}
+
+.navbar-brand img {
+    border-radius: 5px;
+}
+
+h1 {
+    color: #007bff;
+}
+
+h2 {
+    color: #333;
+    font-weight: bold;
+}
+
+ul.list-unstyled {
+    padding-left: 0;
+    list-style-type: none;
+}
+
+ul.list-unstyled li {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+}
+
+footer {
+    background-color: #343a40;
+}
+
+footer p {
+    margin-bottom: 0;
+}
